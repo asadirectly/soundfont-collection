@@ -1,0 +1,242 @@
+IiWT's Banjo-Tooie Soundfont V1.0!
+Here's this one, too. Contained here is another list of patch notes.
+You may notice that a lot of the patches are in the same places as Banjo-Kazooie's soundfont. This is, I think, because Kirkhope imported the same sound library from that, and then added to it.
+Once again, have a time!
+
+Notes:
+
+Instr_O1 = Same marimba contained in BK's soundfont. Backbone for many songs.
+
+Instr_O2 = Same string sample contained in BK's soundfont, but pitch-shifted. Also a backbone for many songs.
+
+Instr_O3 = Jungle Drum-like soundfont also contained in BK's soundfont. Not used much.
+
+Instr_O4 = A nice bass.
+
+Instr_O5 = Same bongo-like drums contained in BK's soundfont. Used quite a bit.
+
+Instr_O6 = Exact flute from BK's soundfont. Still used quite a bit, and like the clarinet down there, requires pitch-shifting.
+
+Instr_O7 = Exact clarinet from BK's soundfont. Used just as much as the flute, and still requires pitch-shifting.
+
+Instr_O8 = Exact sax from BK's soundfont. Kirkhope's favorite, apparently...
+
+Instr_O9 = Exact timpani from BK's soundfont. Another of Kirkhope's most used.
+
+Instr_OA = Exact tubular bell from BK's soundfont. Like the Jungle Drum, it's not used all that much.
+
+Instr_OB = Exact tambourine from BK's soundfont. Used most notably for the town portion of Jolly Roger's Lagoon.
+
+Instr_OC = Exact harmonica from BK's soundfont. Still a bit difficult to pitch-shift...
+
+Instr_OD = Exact maracas from BK's soundfont. Usually used in cave-like areas.
+
+Instr_OE = BT's equivalent of BK's tuba. Used quite a bit. Contains the improvements made in DK64's tuba.
+
+Instr_OF = Pack of strange, spooky SFX. Leftover from BK.
+
+Instr_1O = Pack of environment-like SFX, mostly birds. Leftover from BK.
+
+Instr_11 = Quintessential trombone from BK's soundfont. Used as a backbone for many songs.
+
+Instr_12 = Trumpet from BK's soundfont. Used frequently for melody.
+
+Instr_13 = Crash cymbal from BK's soundfont. Used frequently, as it's a basic percussion instrument.
+
+Instr_14 = A set of snare drum samples and a snare roll sample. Leftover from BK's soundfont.
+
+Instr_15 = French horns used incredibly frequently. Leftover from BK's soundfont, with a minor pitch alteration in the lower samples that works wonders.
+
+Instr_16 = Pan flute. Not used much. Leftover from BK's soundfont.
+
+Instr_17 = Strange clonking sound. Leftover from BK. Currently unidentified in any of Kirkhope's work.
+
+Instr_18 = Bass drum, leftover from BK's soundfont. Used frequently, like the crash cymbal, as they are both common percussion.
+
+Instr_19 = Hi-hat cymbals, leftover from BK. Not used all that much, despite being in the same dinghy as the crash cymbal and bass drum.
+
+Instr_1A = Bird noise?? Leftover from BK's soundfont, and not used all that much.
+
+Instr_1B = Strange tribal chants. Not used much, and a mere leftover from BK.
+
+Instr_1C = That weird skritchy-skratchy thing. Not used much. Leftover from BK.
+
+Instr_1D = English horn/Oboe. Used frequently, like the sax, trombone and trumpet. A leftover from BK.
+
+Instr_1E = Glockenspiel. Used rarely, and is a leftover from BK.
+
+Instr_1F = Jungle SFX leftover from DK64 maybe. Used infrequently, mostly for some areas in Mayahem Temple.
+
+Instr_2O = A set of 3 unidentifiable SFX. Not heard anywhere else!
+
+Instr_21 = Wind from BK's soundfont. Ambient noise used very frequently.
+
+Instr_22 = Another strange clonking noise.
+
+Instr_23 = Some more bird SFX. Appears to be woodpeckers.
+
+Instr_24 = Kirkhope's classic brushed snare. Used frequently.
+
+Instr_25 = Glooping noise leftover from BK's soundfont. Not used as frequently this time around.
+
+Instr_26 = A strange conveyor belt sound. Not sure what this is used for, maybe Grunty Industries.
+
+Instr_27 = A loud, unpleasant static-y noise meant to represent the ocean's waves. Kirkhope tried his best, people!!
+
+Instr_28 = A steel-string guitar leftover from BK. It is used a bit more in this game.
+
+Instr_29 = Seagulls from BK. Used less in this game.
+
+Instr_2A = Frog from BK. Used less in this game.
+
+Instr_2B = Bee SFX from BK. Still used for beehives and the like.
+
+Instr_2C = Banjo's...well...banjo, leftover from BK's soundfont. Still used rarely in this game. 
+
+Instr_2D = Springy jaw-harp from BK's soundfont. Used most notably for the Springy-Step shoes in this game. More of a legato instrument this time.
+
+Instr_2E = Iron Clang from BK's soundfont. Not used much.
+
+Instr_2F = Donkey SFX. Used most notably in Glitter Gulch Mine.
+
+Instr_3O = Fiddle from BK's soundfont. Not used as much this time around.
+
+Instr_31 = Kazoo from BK's soundfont. Used primarily for jingles.
+
+Instr_32 = Desert SFX left over from BK's soundfont. Primarily, the eagle sound is used for many an ambient backing track.
+
+Instr_33 = A wood-block, left over from BK's soundfont. Used quite a bit, mostly to indicate a time limit.
+
+Instr_34 = Banjo's trademark "Guh-huh" catchphrase. Leftover from BK.
+
+Instr_35 = A near-perfect copy of Instr_O6's flute. No differences can be identified at this time.
+
+Instr_36 = A near-perfect copy of Instr_O7's clarinet. No differences can be identified at this time.
+
+Instr_37 = The theremin from BK's soundfont. Used primarily for making things sound a bit on the spookier side.
+
+Instr_38 = The church organ from BK's soundfont. Paired quite often with Instr_37.
+
+Instr_39 = A set of spooky laughs and such left over from BK. Oddly contained in this pack is a lion's roar.
+
+Instr_3A = The muted bass from BK's soundfont. Used quite a bit for cave-like rooms, and as a backbone in general.
+
+Instr_3B = A bizarre laugh, left over from BK. Used for the Yetis on the ice side of Hailfire Peaks.
+
+Instr_3C = The big, booming bass drum from BK's soundfont.
+
+Instr_3D = The Jinjos' trademark...well, shouting of their own name, left over from BK. Used for the same purpose as in that game.
+
+Instr_3E = The "Hup two three four" of the termites in Mumbo's Mountain of BK. Not identified anywhere in BT.
+
+Instr_3F = The shanai from BK's soundfont. Used very little in this game, if at all.
+
+Instr_4O = Those little Reggae-type drummy things, left over from BK. Not used much this time around.
+
+Instr_41 = Dripping SFX taken from BK's soundfont. Used primarily for cave environments.
+
+Instr_42 = The harp from BK's soundfont. Used nigh-exclusively for the underwater variations of songs.
+
+Instr_43 = Banjo's rather funny-sounding "Doh!", taken from BK's soundfont. Used sometimes for when a mini-game is failed.
+
+Instr_44 = The finger-snapping sound from BK's soundfont. It's not used very much in this game, as with BK.
+
+Instr_45 = Pizzicato strings taken from BK's soundfont. Rarely used in this game.
+
+Instr_46 = Rusty Bucket Bay's foghorns, taken from BK's soundfont. Not used very much, if at all in this game.
+
+Instr_47 = Mumbo's vocal expressions from BK. Used a bit more in this game, going with Mumbo's more expanded role.
+
+Instr_48 = An exact replica of Instr_13's crash cymbal.
+
+Instr_49 = Instr_O2's strings, but they sound a bit more...a-wobbly wobbly.
+
+Instr_4A = Zapping SFX, maybe taken from BK's soundfont. Primarily used in Grunty Industries.
+
+Instr_4B = An odd clonking sound, maybe taken from BK's soundfont. Sounds like it would be primarily used in cave environments.
+
+Instr_4C = Instr_16, with no current identifiable differences.
+
+Instr_4D = Taiko drum from BK's soundfont. Still not used much.
+
+Instr_4E = A cheering crowd. Used in the background of the kickball mini-game.
+
+Instr_4F = Choir noises. Not sure if this was used in BK or not...
+
+Instr_5O = A gong, not used in BK's soundfont.
+
+Instr_51 = Deep pizzicato from BK's soundfont.
+
+Instr_52 = A muted bass, similar to Instr_3A. It seems to be a bit more high-pitched.
+
+Instr_53 = Instr_38, with no current identifiable differences.
+
+Instr_54 = A bass clarinet, used most notably for Hailfire Peaks' lava side.
+
+Instr_55 = An electric organ, left over from BK's soundfont. Used on-and-off-again in many different places in this game.
+
+Instr_56 = A strange synth wave. Used exclusively for Bottles' near-game-climax rave.
+
+Instr_57 = Instr_37, with no current identifiable differences.
+
+Instr_58 = Whistling. Not found in BK's soundfont.
+
+Instr_59 = Recorder. Used most notably for the main melody of Jolly Roger's Lagoon's main theme.
+
+Instr_5A = Timpani rolls, not found in BK's soundfont.
+
+Instr_5B = Tremolo strings, not found in BK's soundfont.
+
+Instr_5C = Burp and fart samples, left over from BK's soundfont. Used most notably for the insides of the Big Fish in Jolly Roger's Lagoon.
+
+Instr_5D = Factory SFX. Used for the UFO in Jolly Roger's Lagoon/Hailfire Peaks, and the inside of Grunty Industries.
+
+Instr_5E = Dinosaur SFX. Used mostly for Terrydactyland.
+
+Instr_5F = Xylophone. Not used as much as Marimba.
+
+Instr_6O = Synthetic brass. Used primarily for boss battles, and dramatic cutscenes.
+
+Instr_61 = Contrasting with Instr_6O, a whistling sample different from Instr_58. Its use is unknown.
+
+Instr_62 = Another whistling sample.
+
+Instr_63 = A clavinet sample, left over from BK. Used most notably for the interiors of Grunty Industries.
+
+Instr_64 = A staccato version of Instr_6O. Also used primarily for boss battles, and most notably for the fight against the HAG 1.
+
+Instr_65 = A staccato tuba, used almost exclusively for the fire side of Hailfire Peaks.
+
+Instr_66 = A vibraphone, not seen in BK's soundfont.
+
+Instr_67 = A bee buzzing. Used almost exclusively for Honey B.'s hive in the Isle O' Hags' plateau.
+
+Instr_68 = A bagpipe, of all things. I'm not sure where this one is used...
+
+Instr_69 = Instr_4F, with no current identifiable differences.
+
+Instr_6A = Instr_5A, with no current identifiable differences.
+
+Instr_6B = A weird, static-like noise. I don't quite know what this is used for.
+
+Instr_6C = A strange "WAH" noise. I have no idea where this is used, if at all.
+
+Instr_6D = A set of ticking clock samples.
+
+Instr_6E = A burning fire sample.
+
+Instr_6F = Some vague hissing instrument. I'm confused as to where this could possibly be used.
+
+Instr_7O = Freezing SFX.
+
+Instr_71 = Jiggywiggy vox.
+
+Instr_72 = Slide whistle going up.
+
+Instr_73 = Electric organ, used for the "Tower of Tragedy!" quiz show at the end.
+
+Instr_74 = Crow SFX. Used for high places, as well as the area outside of King Jingaling's castle after it's zombified.
+
+Instr_75 = Same as Instr_6D.
+
+Instr_76 = Techno drumkit. Used only for Bottles' rave near the end of the game.

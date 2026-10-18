@@ -1,0 +1,196 @@
+IiWT's Donkey Kong 64 Soundfont V1.0!
+
+Well, here it is. This list contains notes for just about every patch in this soundfont.
+Have a time!
+
+Notes:
+
+Instr_OO = Appears to be nothing. Will view in Viena later to determine what this one is.
+
+Instr_O1 = Practically the "default MIDI piano" of Kirkhope's Soundbanks, once again appears his Marimba as O1.
+
+Instr_O2 = A bizarre cross between the Timpani and Jungle Drums. Used a lot in this game.
+
+Instr_O3 = The Jungle Drum by itself. Also used a lot.
+
+Instr_O4 = The Pan Flute. Also used a lot. Did Kirkhope shove all the jungle-type stuff at the start?
+
+Instr_O5 = That little skritchy-skratchy thingamajig, which I believe is called a Guiro. Used mostly for beach-type stuff.
+
+Instr_O6 = Maracas. Not used much, surprisingly.
+
+Instr_O7 = Woodblock. Once again used to indicate a time limit.
+
+Instr_O8 = Bongos. Used a lot, as they are jungle-type.
+
+Instr_O9 = This game's Drumkit. Used quite a bit, as it's basically every percussion instrument in one.
+
+Instr_OA = "Don-key Kong" vox. The first sample sounds like...something else on its own.
+
+Instr_OB = That little clunkity-thunkity thing. Still have no idea what it does.
+
+Instr_OC = Jungle SFX. Used for...well...Jungle Japes and other such wonderment.
+
+Instr_OD = Crickets. Used an awful lot.
+
+Instr_OE = Kirkhope's favorite Saxophone. Used even more in this game than BK or BT.
+
+Instr_OF = Clarinet. Still needs to be pitch-shifted.
+
+Instr_1O = Trombone. Still requires pitch-shifting.
+
+Instr_11 = Kirkhope's Trumpet. Sounds a little crustier here than in BK or BT. I wonder why...
+
+Instr_12 = Strings. A notable difference(one carried over into BT) is that they now have been correctly pitched.
+
+Instr_13 = An...instrument? Maybe? Not sure if I've heard this one in any of the game's songs yet.
+
+Instr_14 = A Muted Trumpet, exclusive to this game. Used extensively.
+
+Instr_15 = A Bass. Not a fish, mind you, but it IS a great catch...heh. Point is, it's used quite a bit.
+
+Instr_16 = A clonk. Used primarily for caves and the like. You'll remember hearing this one as that high-pitched "Clonk!" in Treasure Trove Cove from Banjo-Kazooie.
+
+Instr_17 = There're no underwater variants of songs this time, but that doesn't stop this Harp from finding some worth in certain places.
+
+Instr_18 = The Glockenspiel/Celesta Kirkhope uses for all kinds of things.
+
+Instr_19 = This game introduces a Gong, which is later brought over into Tooie. It's a-pretty-pretty good, and is most notably used in Angry Aztec and also for the fight against King Krusha K. Rool.
+
+Instr_1A = A high-pitched percussion instrument of some sort. No idea if this is used, and if it is, I have no idea where.
+
+Instr_1B = Theremin. Used for Spooky-Type(TM) things.
+
+Instr_1C = Gloopy Bubble SFX. Used for...things. Underwater things. So...yeah. They're things.
+
+Instr_1D = Timpani. Used a lot, as it's apparently a jungle-type instrument.
+
+Instr_1E = A more improved version of the Tuba from Banjo-Kazooie's soundfont. Introduced here, then later used in Banjo-Tooie.
+
+Instr_1F = French Horns. Used quite a bit, especially for boss fights. Paired with the Trumpet above(particularly with the Trumpet an octave higher), it creates the signature Kirkhope brass sound we've come to know and love.
+
+Instr_2O = English Horn/Oboe from BK. Also used quite a bit.
+
+Instr_21 = Flute/Piccolo.
+
+Instr_22 = Snare/Snare-roll samples.
+
+Instr_23 = A Synth of some variation. I'm quite confused.
+
+Instr_24 = Dripping SFX. Used most notably for Crystal Caves' main track, and caves in general.
+
+Instr_25 = Triangle, exclusive to this game. Used most notably for Snide's HQ, as, oddly enough, a celesta is used for when Chunky plays the triangle.
+
+Instr_26 = Whistling. Used most notably for Funky's Armory.
+
+Instr_27 = Clavinet. Used most notably for some variants of Frantic Factory.
+
+Instr_28 = Choir noises. Used in...erm...Angry Aztec, perhaps?
+
+Instr_29 = Kirkhope's trusty Wind SFX.
+
+Instr_2A = Those little clangy Reggae-type Drums.
+
+Instr_2B = Kirkhope's best attempt at a Dulcimer. Anyways, it's most notably used in Angry Aztec.
+
+Instr_2C = Diddy's Electric Guitar. It's used primarily for him playing it.
+
+Instr_2D = An old sample from BK's "Tribal Noises". Whether or not it's used here I cannot tell you.
+
+Instr_2E = Kirkhope's Pizzicato Strings. Their "Plunk!" lends itself to many a song.
+
+Instr_2F = Snake SFX. Also probably used in Angry Aztec.
+
+Instr_3O = That weird little Crunchity Clonkity thing. Not sure where it's used in this game...
+
+Instr_31 = What appears to be something wind-up-type moving.
+
+Instr_32 = Brass Fall. Used most notably for the RC Car Races in Frantic Factory and Creepy Castle.
+
+Instr_33 = A Saw Wave of some variation.
+
+Instr_34 = A strange trumpet. Used most notably for the kart racing theme.
+
+Instr_35 = Electric Organ. It's used a lot in this game...I think?
+
+Instr_36 = A Piano, exclusive to this game. Not done much justice here.
+
+Instr_37 = A Pipe Organ. It's not used all that much, except for in Creepy Castle, due to that level's nature. It's also used prominently for one part of the King Krusha K. Rool battle theme.
+
+Instr_38 = Muted Bass. It's used quite a bit.
+
+Instr_39 = Finger Snapping SFX. I think it's actually a different sample from the one in Banjo-Kazooie...
+
+Instr_3A = A deeper-pitched Pizzicato String. I'm not sure where this one's used...
+
+Instr_3B = Something Shrieking. I'm confused now...
+
+Instr_3C = What appears to be the exact Muted Trumpet from earlier.
+
+Instr_3D = Still the same non-pitched Clarinet.
+
+Instr_3E = A Roaring Monster of some variation. Used at the start of Rambi's BGM.
+
+Instr_3F = Mad Jack's laughing SFX. This sadly means that they're stuck in the song. I wish I could remove them...WAIT!
+
+Instr_4O = A Staccato Violin. Most prominently used in Fungi Forest's Mine Cart challenge.
+
+Instr_41 = An Air Horn. Used for the start of some Mini-Games.
+
+Instr_42 = A set of Sci-fi-esque SFX. Used primarily for the "Research and Development" part of Frantic Factory.
+
+Instr_43 = A pack of Confusing SFX. Not sure about these...
+
+Instr_44 = The unpleasant "Waves" from BK. He still tried his best, folks!
+
+Instr_45 = The Bells. They are The Bells. Look at them go...
+
+Instr_46 = Seagulls from BK. Not used as much here.
+
+Instr_47 = I have no idea what this is. Some kind of Watery Thingy...
+
+Instr_48 = A Crowd Cheering. This is actually much better than the sample contained in Banjo-Tooie.
+
+Instr_49 = Mostly Bird SFX, but there's also some Bees in there...
+
+Instr_4A = The...ergh...the...erm...Banana Fairy...laugh SFX.
+
+Instr_4B = A rather cartoonish Wolf Howling. Used mostly for the night-time tracks of Fungi Forest.
+
+Instr_4C = Another Electric Guitar sample. Again, mostly used for things concerning Diddy.
+
+Instr_4D = A rather hilarious soundbite of DK saying "OHHHHH, BANANA!!". I literally cannot stop laughing.
+
+Instr_4E = A Drum-Loop, used in the DK Rap.
+
+Instr_4F = A large set of voice samples, forming the DK Rap's lyrics.
+
+Instr_5O = Misc. DK Rap stuff.
+
+Instr_51 = Slippery Slidey Guitar Business from the DK Rap.
+
+Instr_52 = Electric Guitar-type stuff.
+
+Instr_53 = Tremolo Strings. Can't remember right offhand where they're used...
+
+Instr_54 = Some vague Woodwind Boi. I dunno...somehow, this one found its way into BT's soundfont as well...
+
+Instr_55 = Harpsichord. Only used for Spooky-Type(TM) things, if I remember correctly.
+
+Instr_56 = Spooky Laugh SFX.
+
+Instr_57 = Steel Drum from BK's soundfont.
+
+Instr_58 = What sounds like Coins Falling. I'm currently unaware of whatever it actually is.
+
+Instr_59 = Something vaguely similar to an Earthquake.
+
+Instr_5A = A loop of a bit of the DK Rap. Used for DK's boom-box in his treehouse.
+
+Instr_5B = The Moaning SFX from Creepy Castle's dungeons.
+
+Instr_5C = Monkey "OOH"-type noises. Not sure about the point of these...
+
+Instr_5D = A Bass Drum, left over from BK.
+
+Instr_5E = Some bizzare Laugh.
