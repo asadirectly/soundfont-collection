@@ -1,0 +1,4 @@
+*.sf2 filter=lfs diff=lfs merge=lfs -text
+*.sf3 filter=lfs diff=lfs merge=lfs -text
+*.sfz filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
